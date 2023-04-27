@@ -14,7 +14,7 @@
 4. Math & Physics
 5. Debugging code
 
-Check out my portfolio at [coleellis.dev](https://coleellis.dev) to learn more about me!
+Check out my portfolio at [cole-ellis.com](https://cole-ellis.com/) to learn more about me!
 
 ### Languages
 C; C++; Python (pwntools, numpy, pandas); Assembly (x86, ARM); Java; PHP; SQL; HTML/JS/SCSS; LaTeX
