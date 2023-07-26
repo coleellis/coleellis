@@ -17,10 +17,13 @@
 Check out my portfolio at [cole-ellis.com](https://cole-ellis.com/) to learn more about me!
 
 ### Languages
-C; C++; Python (pwntools, numpy, pandas); Assembly (x86, ARM); Java; PHP; SQL; HTML/JS/SCSS; LaTeX
+C, C++, Python (pwntools, pandas, numpy), Assembly (x86, x64, ARM), Java, PHP, SQL, HTML/CSS/JS, Swift, LaTeX
 
 ### Penetration Testing Tools
-Burpsuite, Metasploit, Wireshark, Nessus, OWASP, John the Ripper/Hydra, Aircrack-ng, Ghidra
+Ghidra, Burpsuite, Wireshark, Radare2, GDB, Docker, Nmap, 
 
 ### Tools and Technologies
-MySQL, Oracle SQL, Docker, Linux (Kali, Ubuntu, Parrot Security OS), Jira/Confluence
+MongoDB, MySQL, VScode, Visual Studio, JetBrains Platform, Vim, Tmux
+
+### Operating Systems
+Ubuntu Linux, Kali Linux, Redhat Enterprise Linux, Parrot Security OS, Windows, MacOS
