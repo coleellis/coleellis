@@ -1,18 +1,22 @@
 ### 👋 I'm Cole.
-- I study Computer Science and Chinese Language at Vanderbilt University.
+- I study Computer Science at Vanderbilt University.
 
-😃 In the small bits of time I have outside the million things that are going on, I am currently prototyping an AI replica of J.A.R.V.I.S., beta-testing releases of iOS and iPadOS, and delving into the world of cybersecurity and penetration testing.
+😃 In the small bits of time I have outside the million things going on, I am competing in various CTF competitions, prototyping an AI replica of J.A.R.V.I.S., and beta-testing releases of iOS and iPadOS.
 
-😭 Unfortunately a lot of my full-stack development is through my escape room designs which are all closed-source by contract.  I hope to someday have some open-source designs that I can broadcast to the world!
+😭 I'm working on several tutorial guides for various topics, including low-level programming, CTF Competition Prep, and various framework tutorials (Radare2, GDB).
 
-🤔 In the future I'm hoping to get myself via various cybersecurity examinations, but I'm gonna need God to add a few more hours to my day before I can work on that one.
+🤔 In the long term, I'd like to prepare for some cybersecurity certifications and my Certified Personal Trainer license.
+
+🗣️ Current Projects:
+1. Binary Exploitation + Low Level Programming Guide {[Site](https://cyber.cole-ellis.com) | [Repo](https://github.com/thecae/cyber-training)}
+2. How-to: Radare2 Guide {[Site](https://r2.cole-ellis.com) | [Repo](https://github.com/thecae/howto-radare2)}
+3. How-to: GDB Guide {[Site](https://gdb.cole-ellis.com) | [Repo](https://github.com/thecae/howto-gdb)}
 
 🌱 My Top Skills Include:
-1. Software Development
-2. Cybersecurity
-3. LaTeX Documentation
-4. Math & Physics
-5. Debugging code
+1. Cybersecurity / CTF Competitions
+2. Software Development
+3. Debugging code
+4. LaTeX Documentation
 
 Check out my portfolio at [cole-ellis.com](https://cole-ellis.com/) to learn more about me!
 
@@ -20,10 +24,10 @@ Check out my portfolio at [cole-ellis.com](https://cole-ellis.com/) to learn mor
 C, C++, Python (pwntools, pandas, numpy), Assembly (x86, x64, ARM), Java, PHP, SQL, HTML/CSS/JS, Swift, LaTeX
 
 ### Penetration Testing Tools
-Ghidra, Burpsuite, Wireshark, Radare2, GDB, Docker, Nmap, 
+Radare2, GDB, Ghidra, Burpsuite, Wireshark, Docker, Nmap
 
 ### Tools and Technologies
-MongoDB, MySQL, VScode, Visual Studio, JetBrains Platform, Vim, Tmux
+MongoDB, MySQL, VScode, Visual Studio, JetBrains Technologies, Vim, Tmux
 
 ### Operating Systems
 Ubuntu Linux, Kali Linux, Redhat Enterprise Linux, Parrot Security OS, Windows, MacOS
