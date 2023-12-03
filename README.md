@@ -22,7 +22,7 @@ Check out my portfolio at [cole-ellis.com](https://cole-ellis.com/) to learn mor
 
 <div style="display:flex; justify-content:space-between; align-items:center;">
 <img style="max-width: 35%" src="https://github-readme-stats-delta-two-75.vercel.app/api/top-langs/?username=thecae&hide=html,css&layout=donut-vertical&theme=tokyonight" alt="Top Languages" />
-<img style="max-width: 55%" src="https://github-readme-stats-delta-two-75.vercel.app/api/wakatime/?username=thecae&theme=tokyonight&layout=compact&hide=markdown" alt="WakaTime Profile">
+<img style="max-width: 55%" src="https://github-readme-stats-delta-two-75.vercel.app/api/wakatime/?username=thecae&theme=tokyonight&layout=compact&hide=markdown,bash" alt="WakaTime Profile">
 </div>
 
 ### Languages
