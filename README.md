@@ -26,13 +26,13 @@ Check out my portfolio at [cole-ellis.com](https://cole-ellis.com/) to learn mor
 </div>
 
 ### Languages
-C, C++, Python (pwntools, pandas, numpy), Assembly (x86, x64, ARM), Java, PHP, SQL, HTML/CSS/JS, Swift, LaTeX
+C, C++, Python (pwntools, pandas, numpy), Javascript/Typescript, Assembly (x86, x64, ARM), Java, HTML/CSS, LaTeX
 
 ### Penetration Testing Tools
 Radare2, GDB, Ghidra, Burpsuite, Wireshark, Docker, Nmap
 
 ### Tools and Technologies
-MongoDB, MySQL, VScode, Visual Studio, JetBrains Technologies, Vim, Tmux
+MongoDB, MySQL, Prisma, VScode, Visual Studio, JetBrains Technologies, Vim, Tmux
 
 ### Operating Systems
 Ubuntu Linux, Kali Linux, Redhat Enterprise Linux, Parrot Security OS, Windows, MacOS
