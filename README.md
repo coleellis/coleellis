@@ -1,13 +1,17 @@
 ### 👋 I'm Cole.
-- I study Computer Science at Vanderbilt University.
+- I recently graduated from Vanderbilt University with a Bachelor's in Computer Science.
 
-😃 In the small bits of time I have outside the million things going on, I am competing in various CTF competitions, prototyping an AI replica of J.A.R.V.I.S., and beta-testing releases of iOS and iPadOS. I'm also exploring web and mobile development by completing a few projects I want to sell.
+😃 Currently, I am competing in various CTF competitions, building CTF and pen-testing challenges, and beta-testing iOS and iPadOS releases. I'm also exploring web and mobile development by completing a few projects I want to sell.
 
-😭 I'm working on several tutorial guides for various topics, including low-level programming, CTF Competition Prep, and various framework tutorials (Radare2, GDB).
+😭 I've built several guides for understanding command-line GDB and Radare2; I am actively expanding my Cyber Training Guide to include more low-level programming and networking information.
 
-🤔 In the long term, I'd like to prepare for some cybersecurity certifications and my Certified Personal Trainer license.
+🤔 In the long term, I'd like to prepare for cybersecurity certifications and my Certified Personal Trainer license.
 
-🗣️ Current Projects:
+🧑‍💻 Current Projects:
+1. _Potionmaster_ Hackthebox Challenge
+2. Detonating Bomb Reverse Engineering Challenge {[Site](https://pte-bomb.vercel.app) | [Repo](https://github.com/thecae/pte-bomb)}
+
+🗣️ Recent Projects:
 1. Binary Exploitation + Low Level Programming Guide {[Site](https://cyber.cole-ellis.com) | [Repo](https://github.com/thecae/cyber-training)}
 2. How-to: Radare2 Guide {[Site](https://r2.cole-ellis.com) | [Repo](https://github.com/thecae/howto-radare2)}
 3. How-to: GDB Guide {[Site](https://gdb.cole-ellis.com) | [Repo](https://github.com/thecae/howto-gdb)}
@@ -29,7 +33,7 @@ Check out my portfolio at [cole-ellis.com](https://cole-ellis.com/) to learn mor
 C, C++, Python (pwntools, pandas, numpy), Javascript/Typescript, Assembly (x86, x64, ARM), Java, HTML/CSS, LaTeX
 
 ### Penetration Testing Tools
-Radare2, GDB, Ghidra, Burpsuite, Wireshark, Docker, Nmap
+Radare2, GDB, Ghidra, Burpsuite, Wireshark, Docker, Nmap, Bloodhound, PEASS
 
 ### Tools and Technologies
 MongoDB, MySQL, Prisma, VScode, Visual Studio, JetBrains Technologies, Vim, Tmux
