@@ -9,12 +9,12 @@
 
 🧑‍💻 Current Projects:
 1. _Potionmaster_ Hackthebox Challenge
-2. Detonating Bomb Reverse Engineering Challenge {[Site](https://pte-bomb.vercel.app) | [Repo](https://github.com/thecae/pte-bomb)}
+2. Detonating Bomb Reverse Engineering Challenge {[Site](https://pte-bomb.vercel.app) | [Repo](https://github.com/coleellis/pte-bomb)}
 
 🗣️ Recent Projects:
-1. Binary Exploitation + Low Level Programming Guide {[Site](https://cyber.cole-ellis.com) | [Repo](https://github.com/thecae/cyber-training)}
-2. How-to: Radare2 Guide {[Site](https://r2.cole-ellis.com) | [Repo](https://github.com/thecae/howto-radare2)}
-3. How-to: GDB Guide {[Site](https://gdb.cole-ellis.com) | [Repo](https://github.com/thecae/howto-gdb)}
+1. Binary Exploitation + Low Level Programming Guide {[Site](https://cyber.coleellis.com) | [Repo](https://github.com/coleellis/cybertraining)}
+2. How-to: Radare2 Guide {[Site](https://r2.coleellis.com) | [Repo](https://github.com/coleellis/howtoradare2)}
+3. How-to: GDB Guide {[Site](https://gdb.coleellis.com) | [Repo](https://github.com/coleellis/howto-gdb)}
 
 🌱 My Top Skills Include:
 1. Cybersecurity / CTF Competitions
@@ -22,7 +22,7 @@
 3. Debugging code
 4. LaTeX Documentation
 
-Check out my portfolio at [cole-ellis.com](https://cole-ellis.com/) to learn more about me!
+Check out my portfolio at [coleellis.com](https://coleellis.com/) to learn more about me!
 
 <div style="display:flex; justify-content:space-between; align-items:center;">
 <img style="max-width: 35%" src="https://github-readme-stats-delta-two-75.vercel.app/api/top-langs/?username=thecae&hide=html,css&layout=donut-vertical&theme=tokyonight" alt="Top Languages" />
