@@ -9,7 +9,8 @@
 
 🧑‍💻 Current Projects:
 1. _Potionmaster_ Hackthebox Challenge
-2. Detonating Bomb Reverse Engineering Challenge {[Site](https://pte-bomb.vercel.app) | [Repo](https://github.com/coleellis/pte-bomb)}
+2. LazyTown, a out-the-box Neovim configuration in Lua
+3. IronForge, an all-inclusive penetration testing and cybersecurity platform
 
 🗣️ Recent Projects:
 1. Binary Exploitation + Low Level Programming Guide {[Site](https://cyber.coleellis.com) | [Repo](https://github.com/coleellis/cybertraining)}
