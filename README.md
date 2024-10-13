@@ -1,15 +1,15 @@
 ### 👋 I'm Cole.
 - I recently graduated from Vanderbilt University with a Bachelor's in Computer Science.
 
-😃 Currently, I am competing in various CTF competitions, building CTF and pen-testing challenges, and beta-testing iOS and iPadOS releases. I'm also exploring web and mobile development by completing a few projects I want to sell.
+😃 Currently, I compete in various CTF competitions, build CTF and pen-testing challenges, and beta-test iOS and iPadOS releases. I'm also exploring web and mobile development by completing a few projects I want to sell.
 
-😭 I've built several guides for understanding command-line GDB and Radare2; I am actively expanding my Cyber Training Guide to include more low-level programming and networking information.
+😭 I've built several guides for understanding command-line GDB and Radare2; I am expanding my Cyber Training Guide to include more low-level programming and networking information.
 
 🤔 In the long term, I'd like to prepare for cybersecurity certifications and my Certified Personal Trainer license.
 
 🧑‍💻 Current Projects:
 1. _Potionmaster_ Hackthebox Challenge
-2. LazyTown, a out-the-box Neovim configuration in Lua
+2. LazyTown, an out-the-box Neovim configuration in Lua
 3. IronForge, an all-inclusive penetration testing and cybersecurity platform
 
 🗣️ Recent Projects:
@@ -37,7 +37,7 @@ C, C++, Python (pwntools, pandas, numpy), Javascript/Typescript, Assembly (x86, 
 Radare2, GDB, Ghidra, Burpsuite, Wireshark, Docker, Nmap, Bloodhound, PEASS
 
 ### Tools and Technologies
-Neovim/Vim, Tmux, Prisma, MongoDB, VScode, JetBrains Technologies, Vim
+Neovim/Vim, Tmux, Prisma, MongoDB, VScode, JetBrains Technologies
 
 ### Operating Systems
 Linux (Arch, Ubuntu, Debian, Fedora), Parrot Security OS, Windows, MacOS
