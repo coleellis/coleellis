@@ -9,7 +9,7 @@
 
 🧑‍💻 Current Projects:
 1. _Potionmaster_ Hackthebox Challenge
-2. LazyTown, an out-the-box Neovim configuration in Lua
+2. Uvim, the Neovim monorepo that nobody asked for (replacing Lazytown)
 3. IronForge, an all-inclusive penetration testing and cybersecurity platform
 
 🗣️ Recent Projects:
